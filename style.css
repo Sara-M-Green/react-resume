@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+section {
+    margin-top: 50px;
+}
+
+section > p {
+    font-weight: bold;
+}
+
+h1, #introduction {
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    margin: 20px;
+}
+
+#img > img{
+    width: 100%;
+    height: auto;
+}
+
+
